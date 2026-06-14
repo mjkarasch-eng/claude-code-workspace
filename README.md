@@ -10,6 +10,6 @@ A personal workspace for experimenting with Claude Code.
 
 ## Tips
 
-- Use `/help` to see availble commands
+- Use `/help` to see available commands
 - Use `/memory` to view saved context
 - Use `gh` to manage GitHub pull requests from the terminal
